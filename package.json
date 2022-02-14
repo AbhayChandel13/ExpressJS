@@ -1,0 +1,21 @@
+{
+  "name": "express_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-handlebars": "^6.0.2",
+    "hbs": "^4.2.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
